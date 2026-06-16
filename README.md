@@ -3,9 +3,7 @@ Project Overview: This project analyzes Blinkit's grocery sales data using Power
 The main objectives of this project are:
 
 -Analyze overall sales performance across different outlets.
-
 -Identify top-performing product categories and outlet types.
-
 -Understand the impact of outlet size and location on sales.
 -Compare sales distribution across item categories.
 -Provide interactive visualizations for business decision-making.
