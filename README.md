@@ -44,7 +44,7 @@ This project analyzes Blinkit's grocery sales data using Power BI to uncover sal
 
 ## 📸 Dashboard Preview
 
-<img width="676" height="681" alt="image" src=""C:\Users\Soumya\Pictures\Screenshots\Screenshot 2026-06-23 172155.png"" />
+<img width="676" height="681" alt="image" src="Blink it Sales Analysis dashboard.pbix" />
 
 
 ## 📚 Learning Outcomes
