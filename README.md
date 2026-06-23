@@ -18,22 +18,22 @@ This project analyzes Blinkit's grocery sales data using Power BI to uncover sal
 
 ## 📈 Dashboard Features
 
-*KPI Cards for Total Sales, Average Sales, Number of Items, and Average Rating
-*Sales Analysis by Product Category (Item Type)
-**Outlet-wise Sales Analysis (Size, Type, and Location)
-*Fat Content-wise Sales Distribution
-*Outlet Establishment Trend Analysis
-*Interactive Charts, Filters, and Slicers
-*Dynamic Dashboard for Sales Performance Monitoring
-*Business Insights for Data-Driven Decision Making
+* KPI Cards for Total Sales, Average Sales, Number of Items, and Average Rating
+* Sales Analysis by Product Category (Item Type)
+* Outlet-wise Sales Analysis (Size, Type, and Location)
+* Fat Content-wise Sales Distribution
+* Outlet Establishment Trend Analysis
+* Interactive Charts, Filters, and Slicers
+* Dynamic Dashboard for Sales Performance Monitoring
+* Business Insights for Data-Driven Decision Making
 
 ## 📊 Key Insights
 
-*Top product categories generate the highest sales.
-*Medium-sized outlets contribute the most revenue.
-*Sales vary across outlet locations and sizes.
-*Regular fat products outperform low-fat products.
-*Customer ratings remain consistently high.
+* Top product categories generate the highest sales.
+* Medium-sized outlets contribute the most revenue.
+* Sales vary across outlet locations and sizes.
+* Regular fat products outperform low-fat products.
+* Customer ratings remain consistently high.
 
 ## 🚀 How to Use
 
@@ -49,12 +49,12 @@ This project analyzes Blinkit's grocery sales data using Power BI to uncover sal
 
 ## 📚 Learning Outcomes
 
-*Data Cleaning and Transformation using Power Query
-*Data Modeling in Power BI
-*Creating Interactive Sales Dashboards
-*Using DAX Measures and Calculations
-*Implementing KPIs and Interactive Visualizations
-**Applying Data Visualization Best Practices
-*Analyzing Retail Sales Performance
-*Deriving Business Insights from Sales Data
+* Data Cleaning and Transformation using Power Query
+* Data Modeling in Power BI
+* Creating Interactive Sales Dashboards
+* Using DAX Measures and Calculations
+* Implementing KPIs and Interactive Visualizations
+* Applying Data Visualization Best Practices
+* Analyzing Retail Sales Performance
+* Deriving Business Insights from Sales Data
   
