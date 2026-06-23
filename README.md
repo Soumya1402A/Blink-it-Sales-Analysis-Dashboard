@@ -1,4 +1,4 @@
-## 📌 Project Overview
+<img width="1193" height="682" alt="image" src="https://github.com/user-attachments/assets/4ab9cab7-7f9c-4fab-bcf2-3aae953893a1" />## 📌 Project Overview
 This project analyzes Blinkit's grocery sales data using Power BI to uncover sales trends, customer preferences, outlet performance, and product category insights. The interactive dashboard enables stakeholders to monitor key business metrics and make data-driven decisions for improving sales and operational efficiency.
 
 ## Objectives:
@@ -44,8 +44,7 @@ This project analyzes Blinkit's grocery sales data using Power BI to uncover sal
 
 ## 📸 Dashboard Preview
 
-<img width="676" height="681" alt="image" src="Blink it Sales Analysis dashboard.pbix" />
-
+<img width="1193" height="682" alt="image" src="https://github.com/user-attachments/assets/0bde8e84-605f-4274-b8cb-a99ca33c1c8e" />
 
 ## 📚 Learning Outcomes
 
